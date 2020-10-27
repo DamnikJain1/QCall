@@ -1,6 +1,6 @@
 audioread==2.1.8
 certifi==2018.8.24
-cryptography==2.3
+cryptography==3.2
 decorator==4.4.0
 Django==2.1.1
 django-heroku==0.3.1
